@@ -184,6 +184,8 @@ Add Data Attach your newly uploaded model dataset to the notebook.
 
 Update the merged_model_path variable in the notebook so it points to your attached dataset directory, or let the auto-router find it.
 
+Select GPU T4 x2 in Settings → Accelerator.
+
 Click Run All.
 
 The script will utilize dual T4 concurrency and smart fallback mechanisms to process the test prompts and generate a resilient submission.csv.
