@@ -87,7 +87,7 @@ batch_size = 2
 
 optim = paged_adamw_8bit
 
-If you have access to an A100 GPU (or a GPU with 50GB+ VRAM) and want to drastically reduce training time, you can modify the code to maximize throughput.
+If you have access to an A100 GPU (or a GPU with 80GB+ VRAM) and want to drastically reduce training time, you can modify the code to maximize throughput.
 
 
 Look for the [A100 / T4 Switch Zone] comments in the following three cells and toggle the comments accordingly:
