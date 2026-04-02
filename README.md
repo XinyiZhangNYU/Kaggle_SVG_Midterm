@@ -174,7 +174,7 @@ Kaggle Deployment
 Steps
 
 
-Create a new Dataset on Kaggle.
+Create a new Dataset on Kaggle, and name it exactly: final_v5
 
 Upload the 6 downloaded files to this new dataset.
 
