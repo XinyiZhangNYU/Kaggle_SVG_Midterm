@@ -20,6 +20,9 @@ purge_dataset_v5.py The data cleaning script
 golden_generator.py The dynamic grammar and shape synthesis engine
 Execution Steps
 
+Note:train.csv is not included in this repository due to GitHub file size limits.
+Please download the official dataset from the competition page and place it in the project root directory.
+
 Run the Purge Script This will filter out malformed XMLs, excessively complex paths, and normalize coordinate bounds.
 Command python purge_dataset_v5.py
 
