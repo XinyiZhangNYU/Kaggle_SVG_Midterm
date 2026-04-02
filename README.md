@@ -178,7 +178,7 @@ Create a new Dataset on Kaggle, and name it exactly: final_v5
 
 Upload the 6 downloaded files to this new dataset.
 
-Open your Kaggle inference notebook (Kaggle_Inference_final.ipynb).
+Open your Kaggle inference notebook (Kaggle_Inference_Final.ipynb).
 
 Add Data Attach your newly uploaded model dataset to the notebook.
 
