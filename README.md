@@ -1,3 +1,5 @@
+
+Colab_Train_Final.ipynb_
 SVG Generation with Qwen2.5-Coder Fine-tuning & Inference Pipeline
 
 This repository contains the complete pipeline for fine-tuning a Large Language Model (Qwen2.5-Coder-1.5B) to generate valid, complex Scalable Vector Graphics (SVG) from natural language prompts.
@@ -104,6 +106,3 @@ Add Data Attach your newly uploaded model dataset to the notebook.
 Update the merged_model_path variable in the notebook so it points to your attached dataset directory, or let the auto-router find it.
 Click Run All.
 The script will utilize dual T4 concurrency and smart fallback mechanisms to process the test prompts and generate a resilient submission.csv.
-
-
-[7]
